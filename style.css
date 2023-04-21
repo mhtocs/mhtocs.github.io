@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css')
+
+* {font-family: 'Tinos', serif;}
+/*pre, code { font-family: Hack, monospace; }*/
+body { margin: 1em;}
+img { max-width: 100%; height: auto; }
+table { margin-top: 1em; }
+@media (min-width: 42em) { body { margin: 1em auto; max-width: 60em; } }
+
